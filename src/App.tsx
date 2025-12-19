@@ -1,5 +1,12 @@
-const App = () => {
-  return <div className="bg-blue-500 text-white p-4">test tailwindcss</div>;
-};
 
-export default App;
+import MainLayout from "./components/layout/MainLayout"
+
+const App = () => {
+  return (
+    <div className="min-h-screen px-8 py-4 bg-white">
+      <MainLayout />
+    </div>
+  )
+}
+
+export default App
