@@ -1,0 +1,42 @@
+.line{
+    position: absolute;
+    transform: translateX(-50%);
+    width: 150px;
+    display: inline-block;
+    height: 4px;
+    background: linear-gradient(90deg, transparent, #ff8c00, transparent);
+    border-radius: 2px;
+}
+.f{
+    top: 20px;
+    left: 60%;
+}
+.s{
+    top: 20px;
+    left: 40%;
+}
+.wordone{
+    width:max-content;
+    height: max-content;
+    display: inline-block;
+    color: #ff8c00;
+    background-color:#ffa50063;
+    border-radius: 5;
+     font-size: 1.5rem;
+    line-height: 1.6;
+
+}
+.main{
+    text-align: center;
+    margin-top: 50px;
+    position: relative;
+}
+.headerword{
+    font-size: 3rem;
+    line-height: 1.2;
+    margin: 50px 0;
+}
+.wordtwo{
+        font-size: 1.5rem;
+    line-height: 1.6;
+}
