@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "loading": "Loading…",
+    "changePassword": "Change password",
+    "personalInfo": "Personal Information",
+    "username": "Username",
+    "email": "Email",
+    "userType": "User Type",
+    "userTypeWithId": "{{name}} (ID: {{id}})",
+    "lastActive": "Last Active",
+    "organization": "Organization",
+    "orgEN": "Organization (EN)",
+    "orgAR": "Organization (AR)",
+    "orgId": "Org ID",
+    "department": "Department",
+    "departmentWithId": "{{name}} (ID: {{id}})",
+    "backToDashboard": "← Back to dashboard"
+  },
+  "navbar": {
+    "toggleSidebar": "Toggle sidebar",
+    "favorites": "Favorites",
+    "noFavoritesYet": "No favorites yet",
+    "pinHint": "Press the star on any page to pin it",
+    "pages": "{{count}} pages",
+    "removeFromFavorites": "Remove from favorites",
+    "openUserMenu": "Open user menu",
+    "yourProfile": "Your Profile",
+    "settings": "Settings",
+    "signOut": "Sign out"
+  }
+}

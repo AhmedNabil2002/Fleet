@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "loading": "جار التحميل…",
+    "changePassword": "تغيير كلمة المرور",
+    "personalInfo": "المعلومات الشخصية",
+    "username": "اسم المستخدم",
+    "email": "البريد الإلكتروني",
+    "userType": "نوع المستخدم",
+    "userTypeWithId": "{{name}} (المعرف: {{id}})",
+    "lastActive": "آخر نشاط",
+    "organization": "المنظمة",
+    "orgEN": "المنظمة (إنجليزي)",
+    "orgAR": "المنظمة (عربي)",
+    "orgId": "معرف المنظمة",
+    "department": "القسم",
+    "departmentWithId": "{{name}} (المعرف: {{id}})",
+    "backToDashboard": "→ العودة إلى لوحة التحكم"
+  },
+  "navbar": {
+    "toggleSidebar": "تبديل الشريط الجانبي",
+    "favorites": "المفضلة",
+    "noFavoritesYet": "لا توجد مفضلة بعد",
+    "pinHint": "اضغط على النجمة في أي صفحة لتثبيتها",
+    "pages": "{{count}} صفحات",
+    "removeFromFavorites": "إزالة من المفضلة",
+    "openUserMenu": "فتح قائمة المستخدم",
+    "yourProfile": "ملفك الشخصي",
+    "settings": "الإعدادات",
+    "signOut": "تسجيل الخروج"
+  }
+}
