@@ -2,7 +2,7 @@
 
 A web app for booking appointments online, replacing manual scheduling with a clean digital flow.
 
-**Live demo:** https://fleet-iota-seven.vercel.app
+**Live demo:** https://appointment-system-sepia.vercel.app
 
 ## Tech Stack
 
